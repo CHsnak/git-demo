@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello, world! Hello, Git!mm1234
 hello, world! Hello, Git!mm1234
 hello, world! Hello, Git!
@@ -7,3 +8,5 @@ hello, world! Hello, Git!
 hello, world! Hello, Git!
 hello, world! Hello, Git! 
 hello, world! Hello, Git!
+hello, world! Hello, Git!hh1234
+hello, world! Hello, Git!hh1234
